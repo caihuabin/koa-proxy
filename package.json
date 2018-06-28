@@ -1,0 +1,24 @@
+{
+  "name": "koa-proxy",
+  "version": "0.1.7",
+  "description": "koa2 proxy middleware",
+  "keywords": [
+    "koa",
+    "middleware",
+    "proxy"
+  ],
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "engines": {
+    "node": ">=6.x",
+    "npm": ">=3.x"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "caihuabin",
+  "license": "ISC"
+}
