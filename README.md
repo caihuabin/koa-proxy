@@ -1,6 +1,4 @@
 # koa-proxy
-koa2 proxy middleware
-=============================
 
 ## 功能
 * 请求数据代理
